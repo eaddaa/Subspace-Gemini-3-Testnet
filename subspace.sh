@@ -9,6 +9,9 @@ echo -e "\e[0m"
 
 sleep 3
 
+sudo su
+cd $HOME
+
 echo -e "\e[1m\e[32m1. Sunucu guncellemesi yapiliyor.. \e[0m"
 echo "======================================================"
 sleep 1
@@ -24,3 +27,6 @@ echo "======================================================"
 sleep 1
 wget https://github.com/subspace/subspace-cli/releases/download/v0.1.9-alpha/subspace-cli-ubuntu-x86_64-v0.1.9-alpha
 chmod +x subspace-cli-ubuntu-x86_64-v0.1.9-alpha
+
+sudo su
+cd $HOME
