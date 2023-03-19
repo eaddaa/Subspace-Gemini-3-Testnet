@@ -1,6 +1,6 @@
 <h1 align="center">Subspace Gemini 3 Testneti Kurulum Rehberi
 
-## Helo, ödülsüz olduğu belirtilen Subspace Gemini 3 Testneti için kurulum yapacağız. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
+## Helo, şuan için ödülsüz olduğu belirtilen Subspace Gemini 3 Testneti için kurulum yapacağız. Sağ üstten yıldızlayıp forklamayı unutmayalım. Sorularınız olursa: [LossNode Chat](https://t.me/LossNode)
 
 ![image](https://user-images.githubusercontent.com/101462877/226185548-0a877428-60b7-4bf6-96c3-bab3b6d8f758.png)
   
